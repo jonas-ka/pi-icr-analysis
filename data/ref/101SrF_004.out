@@ -1,0 +1,38 @@
+[UT_Mag]
+setfreq1 = 1084.8
+setamp1 = 0.26
+setcycles1 = 3
+
+[UT_P1]
+setfreq1 = 901271.115
+setfreq2 = 902355.810
+setamp1 = 1.7
+setamp2 = 2.31
+setcycles1 = 580
+setcycles2 = 2500
+setphase1 = 0
+setphase2 = 0
+
+[UT_P2]
+setfreq1 = 901271.115
+setfreq2 = 902355.810
+setamp1 = 1.7
+setamp2 = 2.31
+setcycles1 = 580
+setcycles2 = 2500
+n_acc = 200000
+setphase1 = 0
+setphase2 = 0
+offset = 0.0
+
+[DIM]
+obj1 = Buncher_RF:SetAmplitude:-1:0.25
+obj2 = UT_Steering:SetChannelVoltage:2:-6.2
+obj3 = UT_Steering:SetChannelVoltage:3:-6.0
+
+[Delays]
+del_mg = 0.002765488
+accu_p = 0.22164206
+offset = 0.0
+del_ej = 0.22505612
+
