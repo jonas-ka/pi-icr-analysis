@@ -15,10 +15,18 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 [2] S. Eliseev, _et al._ Phys. Rev. Lett. 110, 082501 (2013).<br>
 [3] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
 
+### Application
+
+The code was used to analyse data for the following publications:
+[A1]: https://doi.org/10.1007/s10751-019-1601-z
+
+[A1] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
+[A2] V. Manea and J. Karthein, _et al._ submitted to Physical Review Letters (2019)<br>
+[A3] M. Mougeot, _et al._ in preparation (2019)<br>
 
 ### Introduction
 
-The following code was written to reconstruct raw PI-ICR data, to fit PI-ICR position information and calculate a frequency using the patter 1/2 scheme described in Ref. [1] and to determine a frequency ratio between a measurement ion and a reference ion. Additionally, the code allows to analyze isomeric states separated in pattern 2.
+The following code was written to reconstruct raw Phase-Imaging Ion-Cyclotron-Resonance (PI-ICR) data, to fit PI-ICR position information and calculate a frequency using the patter 1/2 scheme described in Ref. [1] and to determine a frequency ratio between a measurement ion and a reference ion. Additionally, the code allows to analyze isomeric states separated in pattern 2.
 
 ### Required software and libraries
 
