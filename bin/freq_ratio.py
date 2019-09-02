@@ -126,11 +126,9 @@ class Freq_ratio():
         """Sets starting parameter. If fitting fails, try to adjust the starting parameter"""
         self.param_start = [1]*(self.degree+1)
         self.param_start[-2] = self.y1[0]   # linear offset of fit
-        if self.y2[0] >706295:    ### example of manually adjusted fitting parameter
-            self.param_start[-3] = 1           # helps p=1 fit to converge
-        else:
-            self.param_start[-3] = 0.1           # helps p=1 fit to converge
-            print(self.y2, self.y1)
+        self.param_start[-3] = 0.0001           # helps p=2 fit to converge
+        #     self.param_start[-3] = 0.1           # helps p=2 fit to converge
+        #     print(self.y2, self.y1)
         print(self.param_start)
 
     def get_data(self):
