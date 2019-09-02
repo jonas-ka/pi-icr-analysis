@@ -3,6 +3,7 @@
 Created on 17 July 2019
 
 @author: Jonas Karthein
+@author: Dinko Atanasov
 @contact: jonas.karthein@cern.ch
 @license: MIT license
 """
