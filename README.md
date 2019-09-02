@@ -13,14 +13,14 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 
 [1] S. Eliseev, _et al._ Appl. Phys. B (2014) 114: 107.<br>
 [2] S. Eliseev, _et al._ Phys. Rev. Lett. 110, 082501 (2013).<br>
-[3] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
+[3] J. Karthein, _et al._ Hyperfine Interact. (2019) 240: 61.<br>
 
 ### Application
 
 The code was used to analyse data for the following publications:
 
 [3] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
-[5] V. Manea and J. Karthein, _et al._ submitted to Physical Review Letters (2019)<br>
+[5] V. Manea and J. Karthein, _et al._ submitted to Phys. Rev. Lett. (2019)<br>
 [6] M. Mougeot, _et al._ in preparation (2019)<br>
 
 ### Introduction
