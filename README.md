@@ -18,11 +18,11 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 ### Application
 
 The code was used to analyse data for the following publications:
-[A1]: https://doi.org/10.1007/s10751-019-1601-z
+[4]: https://doi.org/10.1007/s10751-019-1601-z
 
-[A1] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
-[A2] V. Manea and J. Karthein, _et al._ submitted to Physical Review Letters (2019)<br>
-[A3] M. Mougeot, _et al._ in preparation (2019)<br>
+[4] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
+[5] V. Manea and J. Karthein, _et al._ submitted to Physical Review Letters (2019)<br>
+[6] M. Mougeot, _et al._ in preparation (2019)<br>
 
 ### Introduction
 
