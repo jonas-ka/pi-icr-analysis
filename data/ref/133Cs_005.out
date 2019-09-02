@@ -1,0 +1,35 @@
+[UT_Mag]
+setfreq1 = 1085.6
+setamp1 = 0.6
+setcycles1 = 3
+
+[UT_P1]
+setfreq1 = 684096.06
+setfreq2 = 685181.09
+setamp1 = 0.96
+setamp2 = 1.38
+setcycles1 = 233
+setcycles2 = 1500
+setphase1 = 0
+setphase2 = 0
+
+[UT_P2]
+setfreq1 = 684096.06
+setfreq2 = 685181.09
+setamp1 = 0.96
+setamp2 = 1.38
+setcycles1 = 233
+setcycles2 = 1500
+n_acc = 700000
+setphase1 = 0
+setphase2 = 0
+offset = 0.25
+
+[Delays]
+del_mg = 0.002763448
+t_nu_p = 0.000340596
+t_nu_c = 0.002189204
+accu_p = 1.021627728
+offset = 0.000230288
+del_ej = 1.024157528
+
