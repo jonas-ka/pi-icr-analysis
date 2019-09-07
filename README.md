@@ -38,6 +38,6 @@ The following code was written in Python 3.7. The required libraries are listed 
 * configparser (configuration file processing)
 * jupyter (Python notebook environment)
 
-The Python-mle package can be derived from https://github.com/ibab/python-mle, all other packages can be fetched using pip:
+All packages can be fetched using pip:
 
-`pip3 install pandas numpy matplotlib scipy configparser jupyter`
+`pip3 install pandas numpy matplotlib scipy configparser jupyter mle`
