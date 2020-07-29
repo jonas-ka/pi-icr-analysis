@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/203128425.svg)](https://zenodo.org/badge/latestdoi/203128425)
+
 # PI-ICR analysis
 
 Created on 17 July 2019 for the ISOLTRAP experiment
