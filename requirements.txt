@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scipy
+configparser
+jupyter
+iminuit >= 2.3.0
