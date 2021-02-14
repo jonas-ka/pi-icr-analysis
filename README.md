@@ -1,4 +1,6 @@
-[![DOI](https://zenodo.org/badge/203128425.svg)](https://zenodo.org/badge/latestdoi/203128425)
+[![DOI](https://zenodo.org/badge/203128425.svg)](https://zenodo.org/badge/latestdoi/203128425) [![MIT Licence](https://img.shields.io/badge/License-MIT-red)](https://opensource.org/licenses/mit-license.php) ![alt text](https://img.shields.io/badge/Python-3.x-brightgreen 'Supported platform') ![alt text](https://img.shields.io/badge/Tested%20on-Mac%2FLinux%2FWindows-brightgreen 'Supported platform')
+
+
 
 # PI-ICR analysis
 
