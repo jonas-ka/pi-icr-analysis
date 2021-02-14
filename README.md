@@ -8,7 +8,7 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 - V1.1 (24 June 2020): Maximum likelihood estimation was simplified based on SciPy PDF's and the CERN-ROOT6 minimizer via the iminuit package (→ great performance)
 
 @author: Jonas Karthein<br>
-@contact: jonas.karthein@cern.ch<br>
+@contact: karthein@mit.edu<br>
 @license: MIT license
 
 ### References
@@ -37,14 +37,14 @@ The following code was written to reconstruct raw Phase-Imaging Ion-Cyclotron-Re
 ### Required software and libraries
 
 The following code was written in Python 3.7. The required libraries are listed below with a rough description for their task in the code. It doesn't claim to be a full description of the library.
-* pandas (data storage and calculation)
-* numpy (calculation)
-* matplotlib (plotting)
-* scipy (PDFs, least squares estimation)
-* configparser (configuration file processing)
-* jupyter (Python notebook environment)
-* iminuit (CERN-ROOT6 minimizer)
+* [pandas](https://pandas.pydata.org/) (data storage and calculation)
+* [NumPy](http://www.numpy.org/) (calculation)
+* [SciPy](http://www.scipy.org/) (PDFs, least squares estimation)
+* [Matplotlib](https://matplotlib.org/) (plotting)
+* [configparser](https://docs.python.org/3/library/configparser.html) (configuration file processing)
+* [Jupyter](https://jupyter.org) (Python notebook environment)
+* [iminuit](https://iminuit.readthedocs.io/en/stable/) (CERN-ROOT6 minimizer)
 
 All packages can be fetched using pip:
 
-`pip3 install --user pandas numpy matplotlib scipy configparser jupyter iminuit`
+`pip install pandas numpy matplotlib scipy configparser jupyter iminuit`
