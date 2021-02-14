@@ -34,9 +34,8 @@ The code was used to analyse data for the following publications:
 The following code was written to reconstruct raw Phase-Imaging Ion-Cyclotron-Resonance (PI-ICR) data, to fit PI-ICR position information and calculate a frequency using the patter 1/2 scheme described in Ref. [1] and to determine a frequency ratio between a measurement ion and a reference ion. Additionally, the code allows to analyze isomeric states separated in pattern 2.
  data, to fit PI-ICR position information and calculate a frequency using the patter 1/2 scheme described in Ref. [1] and to determine a frequency ratio between a measurement ion and a reference ion. Additionally, the code allows to analyze isomeric states separated in pattern 2.
 
-### Required software and libraries
+### Dependencies
 
-The following code was written in Python 3.7. The required libraries are listed below with a rough description for their task in the code. It doesn't claim to be a full description of the library.
 * [pandas](https://pandas.pydata.org/) (data storage and calculation)
 * [NumPy](http://www.numpy.org/) (calculation)
 * [SciPy](http://www.scipy.org/) (PDFs, least squares estimation)
