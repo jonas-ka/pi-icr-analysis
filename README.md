@@ -6,6 +6,7 @@
 
 Created on 17 July 2019 for the ISOLTRAP experiment
 - V1.1 (24 June 2020): Maximum likelihood estimation was simplified based on SciPy PDF's and the CERN-ROOT6 minimizer via the iminuit package (→ great performance)
+- V1.2 (20 February 2021): Preparations for scientific publication and iminuit v2 update integration
 
 @author: Jonas Karthein<br>
 @contact: karthein@mit.edu<br>
