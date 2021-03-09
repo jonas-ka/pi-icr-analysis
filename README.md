@@ -49,6 +49,10 @@ All packages can be fetched using pip:
 
 `pip install pandas numpy matplotlib scipy configparser jupyter iminuit`
 
-### Installation and usage
+### Installation and execution
 
 The whole analysis code is based on the main jupyter notebook. It can be run locally using Python 3.7+ by installing all dependencies using the `pip` command from the section above. Next, navigate to this package's folder and run `jupyter notebook pi-icr-analysis.ipynb`. Alternatively, the code can be run in the cloud using services like CERN's SWAN platform, Google Colab or Binder (use button on top of this README). The analysis code provides a full set of example data to run the entire analysis and is already set up to do so. If the execution fails in the "Frequency-ratio calculation" section, please modify the line 129 in `bin/freq_ratio.py` to one of the following values: [-10, -1, -0.001, 0.001, 1, 10]. This varys the starting parameters of the frequency ratio fit, which might get stuck for such a small set of (example) data. In case of a real experiment with many more data points, this does not pose any issues. Have fun :-)
+
+### Folder structure
+
+The analysis code depends on two local packages for data reconstruction and frequency-ratio fitting. They can both be found in the `bin` folder. There, ISOLTRAP's Windows conversion executable for the binary raw data from our DLD40 detector to plain text files is also located (not required for external experiments). The example data with their full analysis and plots can be found in the `data` folder and subfolders for the ion of interest (`ioi`) and the reference (`ref`) data. The alternative fitting approaches discussed in the scientific publication including the Monte-Carlo simulations and their results/plots can be found in the `alternative-approaches` folder using the jupyter notebook `PI-ICR-phase-display-simulation.ipynb`.
