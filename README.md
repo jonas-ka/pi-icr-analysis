@@ -27,8 +27,8 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 The code was used to analyse data for the following publications:
 
 [3] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
-[4] V. Manea and J. Karthein, _et al._ Phys. Rev. Lett. 124, 092502 (2020)<br>
-[5] M. Mougeot, _et al._ in preparation (2020)<br>
+[4] V. Manea & J. Karthein, _et al._ Phys. Rev. Lett. 124, 092502 (2020)<br>
+[5] M. Mougeot, D. Atanasov, J. Karthein, _et al._ submitted to Nature Physics (2021)<br>
 
 ### Introduction
 
