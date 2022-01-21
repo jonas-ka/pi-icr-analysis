@@ -15,7 +15,7 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 ### Scientific publication on this work
 Please read the following article for details on the calculation and usage:<br>
 [0]: https://doi.org/10.1016/j.cpc.2021.108070
-[0]: J. Karthein, _et al._ Comp. Phys. Comm. 267, 108070 (2021).<br>
+[0] J. Karthein, _et al._ Comp. Phys. Comm. 267, 108070 (2021).<br>
 
 ### References
 [1]: https://doi.org/10.1007/s00340-013-5621-0
