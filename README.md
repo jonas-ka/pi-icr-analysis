@@ -14,26 +14,27 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 
 ### Scientific publication on this work
 Please read the following article for details on the calculation and usage:<br>
-[0]: https://doi.org/10.1016/j.cpc.2021.108070
-[0] J. Karthein, _et al._ Comp. Phys. Comm. 267, 108070 (2021).<br>
+[1]: https://doi.org/10.1016/j.cpc.2021.108070
+[1] J. Karthein, _et al._ Comp. Phys. Comm. 267, 108070 (2021).<br>
 
 ### References
-[1]: https://doi.org/10.1007/s00340-013-5621-0
-[2]: https://doi.org/10.1103/PhysRevLett.110.082501
-[3]: https://doi.org/10.1007/s10751-019-1601-z
-[4]: https://doi.org/10.1103/PhysRevLett.124.092502
+[2]: https://doi.org/10.1007/s00340-013-5621-0
+[3]: https://doi.org/10.1103/PhysRevLett.110.082501
+[4]: https://doi.org/10.1007/s10751-019-1601-z
+[5]: https://doi.org/10.1103/PhysRevLett.124.092502
+[6]: https://doi.org/10.1038/s41567-021-01326-9
 
-[1] S. Eliseev, _et al._ Appl. Phys. B (2014) 114: 107.<br>
-[2] S. Eliseev, _et al._ Phys. Rev. Lett. 110, 082501 (2013).<br>
-[3] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
+[2] S. Eliseev, _et al._ Appl. Phys. B (2014) 114: 107.<br>
+[3] S. Eliseev, _et al._ Phys. Rev. Lett. 110, 082501 (2013).<br>
+[4] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
 
 ### Application
 
 The code was used to analyse data for the following publications:
 
-[3] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
-[4] V. Manea & J. Karthein, _et al._ Phys. Rev. Lett. 124, 092502 (2020)<br>
-[5] M. Mougeot, D. Atanasov, J. Karthein, _et al._ submitted to Nature Physics (2021)<br>
+[4] J. Karthein, _et al._ Hyperfine Interact (2019) 240: 61.<br>
+[5] V. Manea & J. Karthein, _et al._ Phys. Rev. Lett. 124, 092502 (2020)<br>
+[6] M. Mougeot, D. Atanasov, J. Karthein, _et al._ Nature Physics 17, 1099 (2021)<br>
 
 ### Introduction
 
