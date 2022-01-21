@@ -13,8 +13,9 @@ Created on 17 July 2019 for the ISOLTRAP experiment
 @license: MIT license
 
 ### Scientific publication on this work
-Please read the following article for details on the calculation and usage:<br>
 [1]: https://doi.org/10.1016/j.cpc.2021.108070
+
+Please read the following article for details on the calculation and usage:<br>
 [1] J. Karthein, _et al._ Comp. Phys. Comm. 267, 108070 (2021).<br>
 
 ### References
